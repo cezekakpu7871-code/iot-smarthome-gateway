@@ -9,4 +9,4 @@ A modular Python simulation of a smart home access gateway using object-oriented
 
 ## Author
 - **Developer:** Chisomeme Ezekakpu
-- **Contact:** c.ezekakpu7871@miva.edu.ng
+- **Contact:** ezekakpuchisomeme@gmail.com
